@@ -1,0 +1,4 @@
+name: WorldGuardExtraPlaceholders
+version: '${version}'
+main: nl.chimpgamer.worldguardextraplaceholders.worldguardextraplaceholders.WorldGuardExtraPlaceholders
+api-version: '1.20'
